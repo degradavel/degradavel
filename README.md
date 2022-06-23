@@ -1,0 +1,2 @@
+# degradavel
+personal repository.
